@@ -1,0 +1,70 @@
+/*CSS externo*/
+table th {
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+table {
+  max-width: 80rem; 
+  text-align: center
+}
+body {
+  background-image: url("../Images/Background.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+
+footer {
+  font-style: italic;
+  font-size: x-large;
+}
+
+h3 {
+  text-align: center;
+}
+
+h4 {
+  text-align: right;
+}
+
+nav {
+  font-size: 100%;
+  position: fixed;
+  z-index: 1000;
+}
+
+h1 {
+  text-align: center;
+  color: #fff;
+  font-size: xx-large;
+  font-style: italic;
+}
+
+h2 {
+  text-align: left;
+  font-style: italic;
+  padding-left: 2%;
+}
+
+p {
+  padding-left: 2%;
+  color: aliceblue;
+  font-size: large;
+  text-align: justify;
+  text-indent: 2cm;
+  font-size: x-large;
+}
+
+table.td.estiloTabla {
+  background-color: black;
+  color: #fff;
+  text-align: center;
+}
+
+li.list-group-item{
+  background-color: black;
+  color: white;
+  font-size: x-large;
+}
+
